@@ -1,0 +1,15 @@
+/workspaces/prueba-carlos-navia/RetoTiposDatos/bin/Debug/net10.0/RetoTiposDatos
+/workspaces/prueba-carlos-navia/RetoTiposDatos/bin/Debug/net10.0/RetoTiposDatos.deps.json
+/workspaces/prueba-carlos-navia/RetoTiposDatos/bin/Debug/net10.0/RetoTiposDatos.runtimeconfig.json
+/workspaces/prueba-carlos-navia/RetoTiposDatos/bin/Debug/net10.0/RetoTiposDatos.dll
+/workspaces/prueba-carlos-navia/RetoTiposDatos/bin/Debug/net10.0/RetoTiposDatos.pdb
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.AssemblyInfoInputs.cache
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.AssemblyInfo.cs
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.csproj.CoreCompileInputs.cache
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.sourcelink.json
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.dll
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/refint/RetoTiposDatos.dll
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.pdb
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/RetoTiposDatos.genruntimeconfig.cache
+/workspaces/prueba-carlos-navia/RetoTiposDatos/obj/Debug/net10.0/ref/RetoTiposDatos.dll

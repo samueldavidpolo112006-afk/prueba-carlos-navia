@@ -1,0 +1,15 @@
+/workspaces/prueba-carlos-navia/RetoOperadores/bin/Debug/net10.0/RetoOperadores
+/workspaces/prueba-carlos-navia/RetoOperadores/bin/Debug/net10.0/RetoOperadores.deps.json
+/workspaces/prueba-carlos-navia/RetoOperadores/bin/Debug/net10.0/RetoOperadores.runtimeconfig.json
+/workspaces/prueba-carlos-navia/RetoOperadores/bin/Debug/net10.0/RetoOperadores.dll
+/workspaces/prueba-carlos-navia/RetoOperadores/bin/Debug/net10.0/RetoOperadores.pdb
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.AssemblyInfoInputs.cache
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.AssemblyInfo.cs
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.csproj.CoreCompileInputs.cache
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.sourcelink.json
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.dll
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/refint/RetoOperadores.dll
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.pdb
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/RetoOperadores.genruntimeconfig.cache
+/workspaces/prueba-carlos-navia/RetoOperadores/obj/Debug/net10.0/ref/RetoOperadores.dll

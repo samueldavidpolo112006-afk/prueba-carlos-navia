@@ -1,0 +1,15 @@
+/workspaces/prueba-carlos-navia/Ejercicio1/bin/Debug/net10.0/Ejercicio1
+/workspaces/prueba-carlos-navia/Ejercicio1/bin/Debug/net10.0/Ejercicio1.deps.json
+/workspaces/prueba-carlos-navia/Ejercicio1/bin/Debug/net10.0/Ejercicio1.runtimeconfig.json
+/workspaces/prueba-carlos-navia/Ejercicio1/bin/Debug/net10.0/Ejercicio1.dll
+/workspaces/prueba-carlos-navia/Ejercicio1/bin/Debug/net10.0/Ejercicio1.pdb
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfoInputs.cache
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfo.cs
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.sourcelink.json
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.dll
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/refint/Ejercicio1.dll
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.pdb
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/Ejercicio1.genruntimeconfig.cache
+/workspaces/prueba-carlos-navia/Ejercicio1/obj/Debug/net10.0/ref/Ejercicio1.dll

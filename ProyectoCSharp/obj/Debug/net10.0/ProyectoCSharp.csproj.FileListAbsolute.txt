@@ -1,0 +1,15 @@
+/workspaces/prueba-carlos-navia/ProyectoCSharp/bin/Debug/net10.0/ProyectoCSharp
+/workspaces/prueba-carlos-navia/ProyectoCSharp/bin/Debug/net10.0/ProyectoCSharp.deps.json
+/workspaces/prueba-carlos-navia/ProyectoCSharp/bin/Debug/net10.0/ProyectoCSharp.runtimeconfig.json
+/workspaces/prueba-carlos-navia/ProyectoCSharp/bin/Debug/net10.0/ProyectoCSharp.dll
+/workspaces/prueba-carlos-navia/ProyectoCSharp/bin/Debug/net10.0/ProyectoCSharp.pdb
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.AssemblyInfoInputs.cache
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.AssemblyInfo.cs
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.csproj.CoreCompileInputs.cache
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.sourcelink.json
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.dll
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/refint/ProyectoCSharp.dll
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.pdb
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ProyectoCSharp.genruntimeconfig.cache
+/workspaces/prueba-carlos-navia/ProyectoCSharp/obj/Debug/net10.0/ref/ProyectoCSharp.dll
