@@ -1,21 +1,35 @@
-﻿// Reto Operadores
+using System;
 
-int numero1 = 20;
-int numero2 = 4;
+class Program
+{
+    static void Main()
+    {
+        // 1. Declarar variables
+        int width = 7;
+        int height = 5;
 
-int suma = numero1 + numero2;
-int resta = numero1 - numero2;
-int multiplicacion = numero1 * numero2;
-int division = numero1 / numero2;
-int modulo = numero1 % numero2;
+        // 2. Calcular área
+        int area = width * height;
 
-numero1 += 5;
-numero2 *= 2;
+        // 3. Calcular perímetro
+        int perimeter = 2 * width + 2 * height;
 
-Console.WriteLine($"Suma: {suma}");
-Console.WriteLine($"Resta: {resta}");
-Console.WriteLine($"Multiplicación: {multiplicacion}");
-Console.WriteLine($"División: {division}");
-Console.WriteLine($"Módulo: {modulo}");
-Console.WriteLine($"Nuevo valor de numero1: {numero1}");
-Console.WriteLine($"Nuevo valor de numero2: {numero2}");
+        // 4. Incrementar width en 3 unidades
+        width += 3;
+
+        // 5. Decrementar height en 2 unidades
+        height -= 2;
+
+        // 6. Recalcular área y perímetro
+        area = width * height;
+        perimeter = 2 * width + 2 * height;
+
+        // 7. Mostrar resultados finales
+        Console.WriteLine("Valores finales:");
+        Console.WriteLine("Width: " + width);
+        Console.WriteLine("Height: " + height);
+        Console.WriteLine("Area: " + area);
+        Console.WriteLine("Perimeter: " + perimeter);
+    }
+}
+
