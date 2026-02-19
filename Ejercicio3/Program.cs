@@ -1,7 +1,23 @@
-﻿// Ejercicio 3: Interpolación de strings
+using System;
 
-string nombre = "Samuel";
-int edad = 19;
-double promedio = 4.5;
+class Program
+{
+    static void Main()
+    {
+        // Reto Tipos de Datos
 
-Console.WriteLine($"Mi nombre es {nombre}, tengo {edad} años y mi promedio es {promedio}.");
+        string producto = "Celular";
+        int cantidad = 2;
+        double precioUnitario = 1800.75;
+        bool disponible = true;
+
+        double total = cantidad * precioUnitario;
+
+        Console.WriteLine("=== RETO TIPOS DE DATOS ===");
+        Console.WriteLine($"Producto: {producto}");
+        Console.WriteLine($"Cantidad: {cantidad}");
+        Console.WriteLine($"Precio unitario: {precioUnitario}");
+        Console.WriteLine($"Disponible: {disponible}");
+        Console.WriteLine($"Total a pagar: {total}");
+    }
+}
